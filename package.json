@@ -5,6 +5,20 @@
   "author": "Connor White",
   "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autosoftoss/tsconfig.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "tsconfig.json",
+    "base",
+    "auto",
+    "autosoft",
+    "autorepo",
+    "swc"
+  ],
   "files": [
     "tsconfig.json"
   ],

@@ -1,6 +1,7 @@
-<div align="center">
+<!--BEGIN HEADER-->
+<div id="top" align="center">
   <h1>@autosoft/tsconfig</h1>
-  <a href="https://npmjs.com/package/autosoft/tsconfig">
+  <a href="https://npmjs.com/package/@autosoft/tsconfig">
     <img alt="npm" src="https://img.shields.io/npm/v/@autosoft/tsconfig.svg">
   </a>
   <a href="https://github.com/autosoftoss/tsconfig">
@@ -11,6 +12,8 @@
 <br />
 
 <blockquote align="center">A base for TypeScript projects.</blockquote>
+
+<br />
 
 _If I should maintain this repo, please ⭐️_
 <a href="https://github.com/autosoftoss/tsconfig">
@@ -23,6 +26,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 </a>
 
 ---
+<!--END HEADER-->
 
 This package includes `typescript`, `ts-node`, and a base `tsconfig.json`, providing a quick way to start TypeScript projects.
 
@@ -95,21 +99,28 @@ The config enable strict type checking, and includes SWC for ts-node:
 }
 ```
 
+<!--BEGIN FOOTER-->
+
 <br />
 
-<h2 id="dependencies">Dependencies<a href="https://www.npmjs.com/package/autosoft/tsconfig?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/@autosoft/tsconfig.svg"></a></h2>
+<h2 id="dependencies">Dependencies<a href="https://www.npmjs.com/package/@autosoft/tsconfig?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/@autosoft/tsconfig.svg"></a></h2>
 
 - [@swc/core](https://www.npmjs.com/package/@swc/core): Super-fast alternative for babel
 - [@types/node](https://www.npmjs.com/package/@types/node): TypeScript definitions for Node.js
 - [ts-node](https://www.npmjs.com/package/ts-node): TypeScript execution environment and REPL for node.js, with source map support
 - [typescript](https://www.npmjs.com/package/typescript): TypeScript is a language for application scale JavaScript development
 
-<h3 id="dev-dependencies">Dev Dependencies</h3>
+
+<br />
+
+<h3>Dev Dependencies</h3>
 
 - [jsonlint](https://www.npmjs.com/package/jsonlint): Validate JSON
+
 
 <br />
 
 <h2 id="license">License <a href="https://opensource.org/licenses/MIT"><img align="right" alt="license" src="https://img.shields.io/npm/l/@autosoft/tsconfig.svg"></a></h2>
 
 [MIT](https://opensource.org/licenses/MIT)
+<!--END FOOTER-->

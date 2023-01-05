@@ -100,6 +100,7 @@ The config enable strict type checking, and includes SWC for ts-node:
 <h2 id="dependencies">Dependencies<a href="https://www.npmjs.com/package/autosoft/tsconfig?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/@autosoft/tsconfig.svg"></a></h2>
 
 - [@swc/core](https://www.npmjs.com/package/@swc/core): Super-fast alternative for babel
+- [@types/node](https://www.npmjs.com/package/@types/node): TypeScript definitions for Node.js
 - [ts-node](https://www.npmjs.com/package/ts-node): TypeScript execution environment and REPL for node.js, with source map support
 - [typescript](https://www.npmjs.com/package/typescript): TypeScript is a language for application scale JavaScript development
 

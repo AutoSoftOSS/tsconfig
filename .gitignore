@@ -1,4 +1,4 @@
-/.turbo
+.turbo
 node_modules
 .DS_Store
 *.txt
